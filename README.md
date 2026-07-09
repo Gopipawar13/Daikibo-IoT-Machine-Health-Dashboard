@@ -71,10 +71,10 @@ This dashboard helps stakeholders:
 
 ## 📸 Dashboard Preview
 ### Main Dashboard
-(Add Dashboard Screenshot)
+![Dashboard](Dashboard.png)
 
 ### Executive Summary
-(Add Executive Summary Screenshot)
+![Executive Summary](Executive_Summary.png)
 
 ---
 
